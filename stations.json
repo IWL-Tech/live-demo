@@ -1,0 +1,84 @@
+{
+  "stations": [
+    {
+      "code": "ECC",
+      "name": "Em Chester Centrale",
+      "platforms": 20,
+      "id": 0,
+      "scheduled": [
+        {
+          "terminus": "Smallbrook Lighthouse",
+          "origin": "Em Chester Centrale",
+          "sta": null,
+          "std": 1627030200269,
+          "trainid": 3,
+          "delay": null
+        }
+      ]
+    },
+    {
+      "code": "ECE",
+      "name": "Em Chester East",
+      "platforms": 6,
+      "id": 1,
+      "scheduled": [
+        {
+          "terminus": "Smallbrook Lighthouse",
+          "origin": "Em Chester Centrale",
+          "sta": 1627030290269,
+          "std": 1627030320269,
+          "trainid": 3,
+          "delay": null
+        }
+      ]
+    },
+    {
+      "code": "PBG",
+      "name": "Pencil Bridge",
+      "platforms": 2,
+      "id": 2,
+      "scheduled": [
+        {
+          "terminus": "Smallbrook Lighthouse",
+          "origin": "Em Chester Centrale",
+          "sta": 1627030545269,
+          "std": 1627030575269,
+          "trainid": 3,
+          "delay": null
+        }
+      ]
+    },
+    {
+      "code": "FQR",
+      "name": "Financial Quarter",
+      "platforms": 2,
+      "id": 3,
+      "scheduled": [
+        {
+          "terminus": "Smallbrook Lighthouse",
+          "origin": "Em Chester Centrale",
+          "sta": 1627030800269,
+          "std": 1627030830269,
+          "trainid": 3,
+          "delay": null
+        }
+      ]
+    },
+    {
+      "code": "SKL",
+      "name": "Smallbrook Lighthouse",
+      "platforms": 3,
+      "id": 4,
+      "scheduled": [
+        {
+          "terminus": "Smallbrook Lighthouse",
+          "origin": "Em Chester Centrale",
+          "sta": 1627031040269,
+          "std": null,
+          "trainid": 3,
+          "delay": null
+        }
+      ]
+    }
+  ]
+}
